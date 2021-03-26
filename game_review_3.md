@@ -1,22 +1,25 @@
-# Game Review for Feud
+# Game Review for PUBG
 
 ## Details
 
-### Feud
+### PUBG
 
-https://bearwaves.itch.io/feud
+https://www.pubgmobile.com/en-US/home.shtml
 
 ### Rating
 
-I rate this game at 5/5.
+I rate this game at 4/5.
 
 ## Summary
 
-This game doesn't have much a story to follow, as it's mainly about strategy. It has a medieval theme to it and like the description says, is sort of like chess but not really. The base concept is the same, protecting a king and navigating around a board, but the method itself is simple yet engaging. Learning how to play was definitely easier than I would've initially thought, and going through the games to figure it out was a fun task to do.
+As one of the more popular multi-player games out there on the market, it's easy to know what the gameplay of PUBG is. To simplify, you play your own customized character through different modes of shooter combat, such as the classic mode in solo, duo, or squad, or other specialized modes that are meant to diversify the way you play the game.
+To set up, usually the process is being dropped into the game and collecting all the supplies you need with equal opportunity as other players. Some modes, however, have preset guns that you have to unlock via earned XP through games played.
 
-To play, you have a small board of 16 squares with 8 for each side. The tactic to follow is first switching pieces to suit your method of attack, then do an action, whether it be attacking the other pieces or healing your own. Each piece has little dots/lives before they're out of the game, and it's also important to never get isolated. Personally it took me a few tries to get the hang of it, but eventually I won against the AI after creating a 'battle plan' of sorts.
+There isn't much of a solid story to follow through the game, since at its core it's just a competitive gun game, but the game does have a system of 'seasons' that players can engage in for about a month or two. Each season has its own story and look, as well as new additions to the game modes, so it creates a fun and competitive environment that's refreshed by a new perspective on the game.
 
 ## Final Thoughts
 
-I have to say that I really enjoyed this game! Going through it once isn't enough to appreciate it and I'm happily getting ready to play a few more rounds just for the fun of it.
-Something I liked was the creative simplicity of the whole thing, going from the art to the gameplay involved. Everything was easy to follow and flowed very smoothly together- plus the menus, sounds, and music were quite fitting and added to the nice atmosphere.
+Having played this game for well over a year, I can say that I definitely enjoy it for its engaging play and detailed features every other month. Being able to play with actual people and friends is also a bonus, if you ignore the rude ones you run into from time to time.
+The only reason I would deduct a star from its rating because it can be too complex for its own good. For example, there's a lot of mini events going on in PUBG at all points in time, and before long there's pages upon pages that you have to navigate to know what's going on. Additionally, sometimes the game modes are implemented without much thorough explanation, so it becomes hard for players to enjoy.
+
+Overall though, it's a fun game to pass the time and play with people around the country or world.
